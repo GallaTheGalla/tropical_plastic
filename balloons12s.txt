@@ -1,0 +1,17 @@
+onlinemarker.filename,onlinebig
+
+onlinemarker.y,21
+
+anchor.font.color.r,215
+anchor.font.color.g,081
+anchor.font.color.b,060
+cursor.font.color.r,215
+cursor.font.color.g,081
+cursor.font.color.b,060
+
+anchor.pen.color.r,215
+anchor.pen.color.g,081
+anchor.pen.color.b,060
+cursor.pen.color.r,215
+cursor.pen.color.g,081
+cursor.pen.color.b,060

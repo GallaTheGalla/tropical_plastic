@@ -1,0 +1,17 @@
+font.color.r,043
+font.color.g,026
+font.color.b,030
+
+anchor.font.color.r,117
+anchor.font.color.g,063
+anchor.font.color.b,072
+cursor.font.color.r,117
+cursor.font.color.g,063
+cursor.font.color.b,072
+
+anchor.pen.color.r,117
+anchor.pen.color.g,063
+anchor.pen.color.b,072
+cursor.pen.color.r,117
+cursor.pen.color.g,063
+cursor.pen.color.b,072
