@@ -8,7 +8,7 @@ name,Tropical Plastic
 craftman,Galehaut & Galla
 craftmanw,Galehaut & Galla
 craftmanurl,https://github.com/GallaTheGalla/tropical_plastic
-homeurl,https://raw.githubusercontent.com/GallaTheGalla/tropical_plasic/main/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/tropical_plastic/main/
 
 origin.x,0
 origin.y,0
