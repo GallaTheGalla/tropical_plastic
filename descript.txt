@@ -21,7 +21,7 @@ validrect.bottom,-8
 wordwrappoint.x,-33
 wordwrappoint.y,0
 
-font.name,Bubblegum Sans
+font.name,BubblegumSans-Regular.ttf
 font.height,16
 font.color.r,090
 font.color.g,047
